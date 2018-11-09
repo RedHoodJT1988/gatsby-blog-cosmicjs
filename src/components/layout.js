@@ -139,7 +139,7 @@ export default ({ children, location }) => (
                   margin: '0 4px -3px 2px',
                 }}
               />
-              <strong>Gatsby</strong>
+              <strong>Jonathan Reeves</strong>
             </a>
             &nbsp;and&nbsp;
             <a
@@ -158,7 +158,7 @@ export default ({ children, location }) => (
                   margin: '0 4px -2px 5px',
                 }}
               />
-              <strong>Cosmic JS</strong>
+              <strong>Blog</strong>
             </a>
           </footer>
         </div>
